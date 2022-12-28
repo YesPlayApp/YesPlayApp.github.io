@@ -3,11 +3,11 @@
   <title>BillySturateの秘密基地</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://billysturate.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://billysturate.github.io/"/>
   <updated>2022-11-13T07:04:15.532Z</updated>
-  <id>http://example.com/</id>
+  <id>https://billysturate.github.io/</id>
   
   <author>
     <name>BillySturate</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Markdown语法快速入门</title>
-    <link href="http://example.com/2022/11/13/Markdown%E8%AF%AD%E6%B3%95/"/>
-    <id>http://example.com/2022/11/13/Markdown%E8%AF%AD%E6%B3%95/</id>
+    <link href="https://billysturate.github.io/2022/11/13/Markdown%E8%AF%AD%E6%B3%95/"/>
+    <id>https://billysturate.github.io/2022/11/13/Markdown%E8%AF%AD%E6%B3%95/</id>
     <published>2022-11-13T06:07:29.123Z</published>
     <updated>2022-11-13T07:04:15.532Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/11/05/hello-world/"/>
-    <id>http://example.com/2022/11/05/hello-world/</id>
+    <link href="https://billysturate.github.io/2022/11/05/hello-world/"/>
+    <id>https://billysturate.github.io/2022/11/05/hello-world/</id>
     <published>2022-11-05T11:50:41.394Z</published>
     <updated>2022-11-05T11:50:41.394Z</updated>
     
