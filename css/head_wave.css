@@ -72,3 +72,9 @@
       min-height: 40px;
     }
   }
+
+
+.loading-img {
+  background: url(https://bu.dusays.com/2023/01/26/63d157fc636f6.jpg) no-repeat center center;
+  background-size: cover;
+}

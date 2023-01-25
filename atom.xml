@@ -419,9 +419,9 @@ JSON(JavaScrip Object Notation) 是一种&lt;mark&gt;轻量级的数据交换格
     <category term="Python" scheme="https://billysturate.github.io/categories/Python/"/>
     
     
-    <category term="pandas" scheme="https://billysturate.github.io/tags/pandas/"/>
-    
     <category term="Python" scheme="https://billysturate.github.io/tags/Python/"/>
+    
+    <category term="pandas" scheme="https://billysturate.github.io/tags/pandas/"/>
     
   </entry>
   
@@ -531,9 +531,9 @@ const即修饰指针，又修饰常量&lt;br&gt;
     <category term="Python" scheme="https://billysturate.github.io/categories/Python/"/>
     
     
-    <category term="Python" scheme="https://billysturate.github.io/tags/Python/"/>
-    
     <category term="Matplotlib" scheme="https://billysturate.github.io/tags/Matplotlib/"/>
+    
+    <category term="Python" scheme="https://billysturate.github.io/tags/Python/"/>
     
   </entry>
   
