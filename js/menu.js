@@ -2,6 +2,7 @@
 window.onscroll = percent; // 执行函数
 // 页面百分比
 function percent() {
+  document.getElementById("page-name").innerText = document.title.split(" | ")[0];
   let a = document.documentElement.scrollTop || window.pageYOffset, // 卷去高度
     b =
       Math.max(
