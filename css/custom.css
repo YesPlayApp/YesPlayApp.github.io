@@ -170,9 +170,9 @@
   }
   
   /* 头图透明 */
-  #page-header {
+  /* #page-header {
     background: transparent !important;
-  }
+  } */
   
   #rightside > div > button {
     border-radius: 5px;
@@ -382,8 +382,15 @@
     width: 100%;
   }
 
+  /* 翻页按钮居中 */
+  #pagination {
+    width: 100%;
+    margin: auto;
+  }
+
   /* 代码框主题 */
   #article-container figure.highlight {
     border-radius: 10px;
   }
 
+  
