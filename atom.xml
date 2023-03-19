@@ -6,15 +6,40 @@
   <link href="https://billysturate.github.io/atom.xml" rel="self"/>
   
   <link href="https://billysturate.github.io/"/>
-  <updated>2023-03-17T15:56:08.750Z</updated>
+  <updated>2023-03-18T16:12:06.947Z</updated>
   <id>https://billysturate.github.io/</id>
   
   <author>
-    <name>yes游旅行公司</name>
+    <name>yes游有限公司</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试用</title>
+    <link href="https://billysturate.github.io/posts/5c689518.html"/>
+    <id>https://billysturate.github.io/posts/5c689518.html</id>
+    <published>2022-11-12T09:13:54.000Z</published>
+    <updated>2023-03-18T16:12:06.947Z</updated>
+    
+    <content type="html"><![CDATA[<div style ="position: relative ; width :100%; height: 0; padding-bottom:75%;"><iframe src ="//https://www.jsvry.com/p/WoXD212z9m?scene_id=87152" scrolling ="no" border="0" frameborder="no" framespacing ="0" allowfullscreen ="true" style =" position: absolute; width :100%; height :100%; left:0; top:0;" ></iframe></div > I ]]></content>
+    
+    
+      
+      
+    <summary type="html">
+&lt;div style =&quot;position: relative ; width :100%; height: 0; padding-bottom:75%;&quot;&gt;&lt;iframe src =&quot;//https://www.jsvry.com/p/WoXD212z9m?scene_id=</summary>
+      
+    
+    
+    
+    <category term="VScode" scheme="https://billysturate.github.io/categories/VScode/"/>
+    
+    
+    <category term="VSCode" scheme="https://billysturate.github.io/tags/VSCode/"/>
+    
+  </entry>
   
   <entry>
     <title>VSCode去掉拷贝来的代码前的行号</title>
@@ -487,9 +512,9 @@ const即修饰指针，又修饰常量&lt;br&gt;
     <category term="Python" scheme="https://billysturate.github.io/categories/Python/"/>
     
     
-    <category term="Numpy" scheme="https://billysturate.github.io/tags/Numpy/"/>
-    
     <category term="Python" scheme="https://billysturate.github.io/tags/Python/"/>
+    
+    <category term="Numpy" scheme="https://billysturate.github.io/tags/Numpy/"/>
     
   </entry>
   
@@ -513,34 +538,9 @@ const即修饰指针，又修饰常量&lt;br&gt;
     <category term="Python" scheme="https://billysturate.github.io/categories/Python/"/>
     
     
-    <category term="Python" scheme="https://billysturate.github.io/tags/Python/"/>
-    
     <category term="Matplotlib" scheme="https://billysturate.github.io/tags/Matplotlib/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Qt5.15.2中编译报错：“invalid use of incomplete type &#39;class Ui::xxx&#39;”的解决方法</title>
-    <link href="https://billysturate.github.io/posts/c53a16ca.html"/>
-    <id>https://billysturate.github.io/posts/c53a16ca.html</id>
-    <published>2022-07-17T10:13:54.000Z</published>
-    <updated>2023-01-28T12:48:27.198Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天新建项目，用Qt连接数据库时，发现如下报错：</p><p><a href="https://bu.dusays.com/2022/12/31/63b0104259b03.png"><img src="https://bu.dusays.com/2022/12/31/63b0104259b03.png" alt="Snipaste_2022-07-17_20-10-30.png"></a></p><p>在网上找了很多解决方法，但是发现好像都不行，还是会报错，最后认真重新检查了一下文件，发现竟然是没有加头文件，然后把头文件</p><p>**#include “ui_mainwindow.h”**加上，如下图所示</p><p><a href="https://bu.dusays.com/2022/12/31/63b01057075ee.png"><img src="https://bu.dusays.com/2022/12/31/63b01057075ee.png" alt="Snipaste_2022-07-17_20-13-13.png"></a></p><p>然后再重新编译，成功运行</p><p><a href="https://bu.dusays.com/2022/12/31/63b0106e00925.png"><img src="https://bu.dusays.com/2022/12/31/63b0106e00925.png" alt="Snipaste_2022-07-17_20-19-19.png"></a></p><p>浪费了很多时间，特此记录</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;今天新建项目，用Qt连接数据库时，发现如下报错：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://bu.dusays.com/2022/12/31/63b0104259b03.png&quot;&gt;&lt;img src=&quot;https://bu.dusays.com/2022/12/31/6</summary>
-      
-    
-    
-    
-    <category term="Qt" scheme="https://billysturate.github.io/categories/Qt/"/>
-    
-    
-    <category term="Qt" scheme="https://billysturate.github.io/tags/Qt/"/>
+    <category term="Python" scheme="https://billysturate.github.io/tags/Python/"/>
     
   </entry>
   
